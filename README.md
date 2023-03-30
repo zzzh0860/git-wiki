@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
