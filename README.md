@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
