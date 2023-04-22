@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add PR Summary step to Ultralytics Actions (#7675)
