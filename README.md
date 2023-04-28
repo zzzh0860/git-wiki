@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
