@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Pass callbacks to validator (#7320)
