@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix PIL show() and save() (#8202)
