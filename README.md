@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
