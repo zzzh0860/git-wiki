@@ -1,1 +1,1 @@
-update requirements.txt
+Fixed RTDETR GFLOPs bug (#7309)
