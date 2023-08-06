@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
