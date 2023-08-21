@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add Amazon Sagemaker Docs integrations page (#7293)
