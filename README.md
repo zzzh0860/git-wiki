@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix Yolo 8.0.206 scale bug (#7821)
