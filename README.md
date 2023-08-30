@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
