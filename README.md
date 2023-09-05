@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
