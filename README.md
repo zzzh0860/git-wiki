@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
