@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
