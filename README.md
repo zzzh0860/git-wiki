@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
