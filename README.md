@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add NCNN Docs Integrations Page (#8562)
