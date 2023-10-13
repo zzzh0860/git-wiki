@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
