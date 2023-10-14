@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
