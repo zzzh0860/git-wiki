@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Fix cmake requirements for ARM64 (#8589)
