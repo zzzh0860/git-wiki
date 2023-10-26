@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Update Dockerfile for Raspberry Pi Support (#8123)
