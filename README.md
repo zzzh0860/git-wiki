@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
