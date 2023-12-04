@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
