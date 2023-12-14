@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
