@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Batch inference fixes (#8854)
