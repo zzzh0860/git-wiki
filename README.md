@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add visuals in guides/distance-calculation.md (#7876)
