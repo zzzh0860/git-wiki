@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+ultralytics 8.0.229 add model.embed() method (#7098)
