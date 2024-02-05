@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+YOLOv8 INT8 TFLite Inference Example (#7317)
