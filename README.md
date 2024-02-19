@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
