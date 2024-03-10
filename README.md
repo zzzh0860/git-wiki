@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
