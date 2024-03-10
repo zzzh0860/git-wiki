@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
