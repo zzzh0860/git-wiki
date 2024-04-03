@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fix ONNX GPU inference bug (#6840)
