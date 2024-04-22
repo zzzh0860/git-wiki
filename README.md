@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Move Explorer tests to scheduled CI (#8305)
