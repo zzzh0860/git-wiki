@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fix Yolo 8.0.206 scale bug (#7821)
