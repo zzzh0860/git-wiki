@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Allow Annotator PIL.Image inputs (#8397)
