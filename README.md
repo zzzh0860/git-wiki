@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add docs guide terminal images (#8819)
