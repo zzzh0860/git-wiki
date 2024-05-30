@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Docs partial mdformat improvements (#7378)
