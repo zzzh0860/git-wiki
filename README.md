@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
