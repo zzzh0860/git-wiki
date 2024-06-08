@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix RTDETR generate anchor grid out of boundary (#7247)
