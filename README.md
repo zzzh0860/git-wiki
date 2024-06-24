@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
