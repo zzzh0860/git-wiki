@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Pass callbacks to validator (#7320)
