@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
