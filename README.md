@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
