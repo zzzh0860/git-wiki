@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
