@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add PaddlePaddle Docs Integrations Page (#8858)
