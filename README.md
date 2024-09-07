@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Rename model_id to model.id (#8447)
