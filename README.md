@@ -1,1 +1,1 @@
-added badges (#45)
+OBB: Fix plot_images (#7592)
