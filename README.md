@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix docs H1 tags (#7182)
