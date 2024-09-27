@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
