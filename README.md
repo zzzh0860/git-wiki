@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
