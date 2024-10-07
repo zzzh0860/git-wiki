@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
