@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
