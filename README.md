@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Compare plt.get_backend() in lowercase (#8409)
