@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
