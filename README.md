@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
