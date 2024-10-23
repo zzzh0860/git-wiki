@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
